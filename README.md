@@ -1,2 +1,2 @@
 # tiny
-https://img.shields.io/appveyor/ci/zural/tiny.svg
+![AppVeyor](https://img.shields.io/appveyor/ci/zural/tiny.svg)
